@@ -189,7 +189,7 @@ Broker fee applies</description>
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>2625</price>
@@ -2451,11 +2451,28 @@ Conveniently located near L train at Lorimer and right next to McCarren Park.</d
     <totalrooms>0</totalrooms>
     <bathrooms>2</bathrooms>
     <availableOn>Dec-12-2024</availableOn>
-    <description />
+    <description>Elevated Living at 527 Grand Ave in Prospect Heights
+
+2 bedroom with 2 bath
+
+Welcome to 527 Grand Ave, a luxury community perfectly nestled in the vibrant Prospect Heights neighborhood. Offering 1 and 2 bedroom residences with spacious layouts, premium finishes, and thoughtful design, this property redefines modern living. Tons of natural sunlight throughout. 
+
+Residents enjoy unparalleled amenities, including:
+- A state-of-the-art fitness center
+- Expansive rooftop terrace with stunning skyline views
+- Dedicated children?s playroom
+- Business conference room for remote work and meetings
+- Convenient elevator access
+
+Neighborhood Highlights:
+Prospect Heights is a blend of historic charm and contemporary culture. Stroll down tree-lined streets to uncover trendy restaurants, cozy cafes, and boutique shops. The iconic Prospect Park, Brooklyn Botanic Garden, and Brooklyn Museum are just steps away, offering lush green spaces and endless cultural experiences. Excellent transit options, including the A and C trains, make commuting to Manhattan and other parts of Brooklyn a breeze.
+
+Live where convenience meets character. Schedule your tour today and make 527 Grand Ave your new home!</description>
     <propertyType>rental</propertyType>
     <owner_company_name>J26</owner_company_name>
     <amenities>
       <pets />
+      <other>A/C, Central A/C, Washer/Dryer In Unit, Stainless steel appliances, Hardwood Floors, Dishwasher</other>
     </amenities>
   </details>
 <agents>
