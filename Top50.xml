@@ -2347,58 +2347,6 @@ Garage Parking</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638724655677601672.jpeg?sv=2024-11-04&amp;se=2027-01-14T15%3A32%3A47Z&amp;sr=b&amp;sp=r&amp;sig=0Q5G0knkAaGkxLxMe4xyXlVWHVjUUOG7hbVEJu0FqBw%3D" position="7" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="30362" url="https://myspacenyc.cazamio.com/apartments/11-05-30th-Road-Unit-5K-Queens-NY-11102-30362">
-  <location>
-    <address>11-05 30th Road</address>
-    <apartment>5K</apartment>
-    <city>Queens</city>
-    <state>NY</state>
-    <zipcode>11102</zipcode>
-    <neighborhood>Astoria</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3450</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Mar-06-2025</availableOn>
-    <description>Welcome home to this beautiful 2-bedroom apartment in the heart of Astoria. Featuring hardwood floors throughout, this residence offers a warm and inviting atmosphere. The modern kitchen is equipped with sleek stainless steel appliances, perfect for cooking and entertaining. Stay comfortable year-round with central AC, and enjoy the convenience of a doorman building providing security and concierge services. Located in one of Queens? most vibrant neighborhoods, you?ll have easy access to top restaurants, caf?s, parks, and public transportation. Don?t miss out on this fantastic opportunity to live in luxury and style!</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>JMDG</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <agents>
-    <agent id="4762c9e9-1c0d-4a4f-8bae-641c3d2bc627">
-      <company>MySpace NYC</company>
-      <photo url="https://lh3.googleusercontent.com/a/ACg8ocJ0zvhqNO_0zk31g34QL39Ku59V00rxlwtNxRvyxNFRwE91AGs=s96-c" />
-      <email>william@myspacenyc.com</email>
-      <lead_email>william@myspacenyc.com</lead_email>
-    </agent>
-  </agents>
-  <media />
-</property>
 <property type="rental" status="active" id="31829" url="https://myspacenyc.cazamio.com/apartments/31-10-23rd-Street-Unit-4G-Queens-NY-11106-31829">
   <location>
     <address>31-10 23rd Street</address>
@@ -2483,6 +2431,58 @@ Step into this stunning 2-bedroom, 2-bathroom apartment in the heart of Astoria,
     <amenities>
       <pets />
       <other>Private Outdoor Space, Balcony/Terrace, Hardwood Floors, Stainless steel appliances</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <agents>
+    <agent id="4762c9e9-1c0d-4a4f-8bae-641c3d2bc627">
+      <company>MySpace NYC</company>
+      <photo url="https://lh3.googleusercontent.com/a/ACg8ocJ0zvhqNO_0zk31g34QL39Ku59V00rxlwtNxRvyxNFRwE91AGs=s96-c" />
+      <email>william@myspacenyc.com</email>
+      <lead_email>william@myspacenyc.com</lead_email>
+    </agent>
+  </agents>
+  <media />
+</property>
+<property type="rental" status="active" id="30362" url="https://myspacenyc.cazamio.com/apartments/11-05-30th-Road-Unit-5K-Queens-NY-11102-30362">
+  <location>
+    <address>11-05 30th Road</address>
+    <apartment>5K</apartment>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11102</zipcode>
+    <neighborhood>Astoria</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3450</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Mar-06-2025</availableOn>
+    <description>Welcome home to this beautiful 2-bedroom apartment in the heart of Astoria. Featuring hardwood floors throughout, this residence offers a warm and inviting atmosphere. The modern kitchen is equipped with sleek stainless steel appliances, perfect for cooking and entertaining. Stay comfortable year-round with central AC, and enjoy the convenience of a doorman building providing security and concierge services. Located in one of Queens? most vibrant neighborhoods, you?ll have easy access to top restaurants, caf?s, parks, and public transportation. Don?t miss out on this fantastic opportunity to live in luxury and style!</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>JMDG</owner_company_name>
+    <amenities>
+      <pets />
     </amenities>
   </details>
 <agents>
