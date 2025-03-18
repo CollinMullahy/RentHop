@@ -10,7 +10,7 @@
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>2900</price>
@@ -2401,7 +2401,7 @@ You?ll be right around the corner from dozens of top-rated bars, restaurants, ca
     <neighborhood>Ridgewood</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>4500</price>
