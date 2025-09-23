@@ -811,70 +811,6 @@ Call or text to take a look right away!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/2008_638496967519654966.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="14" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="13140" url="https://myspacenyc.cazamio.com/apartments/253-Hart-St-Unit-1R-Brooklyn-NY-11206-13140">
-  <location>
-    <address>253 Hart St</address>
-    <apartment>1R</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-    <neighborhood>Bedford Stuyvesant</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3500</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>2</bathrooms>
-    <availableOn>Oct-01-2025</availableOn>
-    <description>Available 10/1!
-
-2 BEDROOM 2 FULL PRIVATE BATH
-
--Open concept living room and modern kitchen
--Stainless steel appliances
--Hardwood floors
--High ceilings
--Sunny windows in every room!
-Nearby subway stations include: Myrtle ? Willoughby Ave(G), Myrtle Av (J, M).</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>PM1</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Central A/C, Hardwood Floors</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626564101868.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626561836221.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626557905885.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626567792896.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626547437432.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626568838703.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626565495432.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626566589802.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626556921589.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
-  </media>
-</property>
 <property type="rental" status="active" id="2694" url="https://myspacenyc.cazamio.com/apartments/52-Monitor-Street-Unit-2R-Brooklyn-NY-11222-2694">
   <location>
     <address>52 Monitor Street</address>
@@ -937,6 +873,70 @@ Nearby subway stations include: Myrtle ? Willoughby Ave(G), Myrtle Av (J, M).</d
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638254178937244768.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="15" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638254178947496907.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="16" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638254178956279190.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="17" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="13140" url="https://myspacenyc.cazamio.com/apartments/253-Hart-St-Unit-1R-Brooklyn-NY-11206-13140">
+  <location>
+    <address>253 Hart St</address>
+    <apartment>1R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>Bedford Stuyvesant</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Oct-01-2025</availableOn>
+    <description>Available 10/1!
+
+2 BEDROOM 2 FULL PRIVATE BATH
+
+-Open concept living room and modern kitchen
+-Stainless steel appliances
+-Hardwood floors
+-High ceilings
+-Sunny windows in every room!
+Nearby subway stations include: Myrtle ? Willoughby Ave(G), Myrtle Av (J, M).</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>PM1</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Central A/C, Hardwood Floors</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626564101868.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626561836221.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626557905885.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626567792896.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626547437432.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626568838703.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626565495432.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626566589802.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638191626556921589.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
   </media>
 </property>
 <property type="rental" status="active" id="35924" url="https://myspacenyc.cazamio.com/apartments/526-Baltic-Street-Unit-5D-Brooklyn-NY-11217-35924">
@@ -1193,10 +1193,10 @@ Unbeatable location at the crossroads of Boerum Hill, Gowanus; Park Slope, near 
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638901073395388408.jpeg?sv=2025-05-05&amp;se=2027-08-06T20%3A02%3A19Z&amp;sr=b&amp;sp=r&amp;sig=bQ7L3YSWZ%2FqOCsIXyVgLc60CqWqcT1JAK3o6fH3Sww0%3D" position="31" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="36106" url="https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-505-Brooklyn-NY-11215-36106">
+<property type="rental" status="active" id="35017" url="https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-204-Brooklyn-NY-11215-35017">
   <location>
     <address>584 4th Avenue</address>
-    <apartment>505</apartment>
+    <apartment>204</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
     <zipcode>11215</zipcode>
@@ -1206,17 +1206,17 @@ Unbeatable location at the crossroads of Boerum Hill, Gowanus; Park Slope, near 
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4500</price>
+    <price>3500</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
+    <bedrooms>1</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
-    <availableOn>Sep-01-2025</availableOn>
-    <description>Modern 2br/1bth at 584 4th Ave- Gowanus
+    <availableOn>Jul-01-2025</availableOn>
+    <description>Modern 1 Bed / 1 Bath at 584 4th Ave-  Gowanus
 
-Welcome to 584 4th Ave, a brand-new luxury development in the heart of Gowanus. This spacious 2 bed features floor-to-ceiling windows with sweeping views of Manhattan, the Statue of Liberty, and city bridges.
+Welcome to 584 4th Ave, a brand-new luxury development in the heart of Gowanus. This spacious 1-bedroom features floor-to-ceiling windows with sweeping views of Manhattan, the Statue of Liberty, and city bridges.
 
 Enjoy premium amenities including:
 
@@ -1237,7 +1237,7 @@ Schedule a tour today!</description>
     <owner_company_name>wmm</owner_company_name>
     <amenities>
       <pets>All pets allowed</pets>
-      <other>Dishwasher, Private Outdoor Space</other>
+      <other>Dishwasher</other>
     </amenities>
   </details>
 <agents>
@@ -1255,23 +1255,278 @@ Schedule a tour today!</description>
         </agent>
       </agents>
   <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420162127.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=R4C6zFEXSCSwmAMGDi6H11yYOwiyulkGSXLXW13Oa3I%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420126647.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=51vFgzrqln%2FkxdlRMxyOrJWsduJ9oAzgEZbu%2FwwBGWQ%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420096680.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=YNUg3397ryKQ%2BlLC4GrE5gyWnYnVOeUrI1qdBwimYrs%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420159492.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=q%2Bidm6MeA1aQffBwNrq5K%2FGhW4YbYAuIQ7PfxNjEhtw%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420160974.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=OW%2FwWkllQrPscY7jTo2B1%2BXzBxhUOncZDk2qGIJgkjk%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420176870.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=9MXiRXTaDm2RyaPNmhHje5CkkQ8I60ZIO%2FCv%2BlQYHjs%3D" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420200867.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=eOWkrXGt1iU%2FtwfO4F6PRbnl%2FCBj5iGFbJscOyaQ99o%3D" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420873583.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=MsQsaeAU48%2FwiLn1CKJT6UpDoE%2BzJjJziAGdtj2ET4w%3D" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420934316.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=UDam5BZEBKkhs%2F2fj4d3RAaeVNLSjguQonfM5cJeF%2BY%3D" position="8" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420962000.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=e18krgLamGLuJ%2BDKXtF2cGgLsegDZEy2WyxslC%2FOQGo%3D" position="9" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420904900.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=3IWtiA3UYlv%2FYepWONBW1yVW6k8ABdCaUamkj4pdlEw%3D" position="10" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420927144.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=Ig75t%2FWoqPj5dxMyVWvrcIOIenhL2YWnDDz6IC8CxuY%3D" position="11" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421025920.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=qeTk4QbJIrsyRc1LecsYQS60j1RFxNQJKOzrVrYUXJU%3D" position="12" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421081947.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=iiLS5q0O4GojIYQwIPe5w%2B1GLE5evZFD%2BUxDs2%2FTKo8%3D" position="13" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421284399.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=vQj1J1DHR3CHMokbkv%2BBEf%2FRk9Mk2dyzQ0syUNLYEJI%3D" position="14" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421617518.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=1d%2Fu%2BboMCUU82S79ddg9b9KKV21ZlLyRxvu5o8vkhbA%3D" position="15" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421555901.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=XaI%2FzRWAr6dQ1%2FgeUOMAq6sxMnBZNNhKNxAmeq3ZeVk%3D" position="16" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730678297.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=Kr6EWJQu9uQ59awCQrpPPZr3xtAD7ZwEkXGF6vjbbRk%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730693674.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=283wrhGn6Z%2F128rFh7RaAx4pRj9ecO9w8YPYGwr%2F1E0%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730499199.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=AxnjfmE%2FxTOGMvG8WhMpxAVrX%2BlpWw9RNLqoivxaMAg%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730677974.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=RM91lPmDdAzjb3tFaQf4q8YaNhLaPmMf2BdqBNoigAo%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730537006.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=TJOxoZH7V09zolWOls%2BnKGIK4zlNglgjNkYM5aWofLM%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217731217925.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=T%2BszpixsFga7hn5DBAGxrzsj%2Fpiy0iY5dOw4F1BFI5A%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217731075615.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=LUawsDUlX%2Bmquf1jeV77oIpdvbIoYEqSGaOHW9VlqNA%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217731182668.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=zVa5oLNO5Nh6ksYb7yG3FY3ZdQiUGvHmJ7SAUnnv%2FL4%3D" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217731156023.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=%2BLzv%2FnESwCJb%2FF%2BJBQSLlq%2FtaBq5mCZWbw8FhcerRGw%3D" position="8" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730552296.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=ZYGqZbEelh6xsasXbt6301p5R50mowFVRE3R6AEYSkk%3D" position="9" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730676556.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=va48AjRCsUScl88cyqfxdd4Peydvy1%2BOs%2BfpGhoBBWk%3D" position="10" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541728191.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=ity%2BRRIfpGq9%2Fceb7axt5%2Bl5mzgriGeO9%2BK50Dw6xms%3D" position="11" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541745748.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=TAoa9h1chv5cgmzsh223SC40B7K%2FDINYG0n8oID2OAo%3D" position="12" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541881281.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=tw5QMhb4IxH%2BL8y3YdO9QYCy48VPtnyqcbVvknWZDyY%3D" position="13" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541865131.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=KDoqt12tMpWOkYBQa2IWPyn4rSFuUh6vOFfx9imrHxU%3D" position="14" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541854020.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=h6VTg49tmbMM%2BXGNz2tq6eejvvXQG9kq3opEToPbaoI%3D" position="15" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541905285.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=ioCK3G3VXWtmnDOnt9cnFgWNEn0FBZEfuwz%2FZGmt%2BMY%3D" position="16" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541838801.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=9FaTQor1c6TBw80%2Bh2EpGoTKvS4RFz70ZqHUSJwQwkM%3D" position="17" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541849944.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=qAtJw8zSzpxKiVjBLhly%2BBYGugrEpMq9VKWAy63mOZA%3D" position="18" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218542639356.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=IDdtBvlqXAxaFXNtDQnee4BccBoL%2B95A1Z%2FHCzf%2B8SQ%3D" position="19" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218542547990.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=lnCvCMx8GMIpa%2FJqwmBN0ELR4XRQBbYLTnkOeFuoVnA%3D" position="20" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="20975" url="https://myspacenyc.cazamio.com/apartments/1068-Fulton-St-Unit-7D-Brooklyn-NY-11238-20975">
+  <location>
+    <address>1068 Fulton St</address>
+    <apartment>7D</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11238</zipcode>
+    <neighborhood>Clinton Hill</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3300</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Nov-01-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets />
+      <other>A/C, Dishwasher, Hardwood Floors, Intercom system, Central A/C, Roof Access</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716438955839.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716482525247.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716524934649.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716565757330.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716607961220.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716648690315.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716686719496.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716727132105.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716771641421.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716810453285.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716849186332.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716888875282.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="33963" url="https://myspacenyc.cazamio.com/apartments/117-S-4th-St-Unit-27-Brooklyn-NY-11249-33963">
+  <location>
+    <address>117 S 4th St</address>
+    <apartment>27</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11249</zipcode>
+    <neighborhood>Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jul-01-2025</availableOn>
+    <description>Located on a quiet block in prime Williamsburg, this true two-bedroom offers great space and even better location. Both bedrooms have windows, closets, and comfortably fit queen beds. The layout features a separate living room and a renovated kitchen. Just a quick walk to the Bedford L and Marcy JMZ trains, and when you're ready to unwind, head upstairs to the rooftop for wide-open Manhattan views and epic sunsets over the water.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001866175.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001697834.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001665070.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001958877.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001922824.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604002173375.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="31743" url="https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-502-Brooklyn-NY-11215-31743">
+  <location>
+    <address>584 4th Avenue</address>
+    <apartment>502</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+    <neighborhood>Gowanus</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3400</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Sep-01-2025</availableOn>
+    <description>1 month free</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150352302.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=yTjI4Fv2R%2BNGNTI79ONQ%2Fhlifja2sp9w2%2Fow5KOr%2FmU%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150250330.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=9QvkV8qehh4TM3r7teUQnTZiKedYuTYAvJldO5gce0E%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150307197.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=KUD3rF3BezSmOlAqKCA1q4Wifkh7qJWrmtwB6IZOJuE%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150285330.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=n%2Fgg12VDElXEa4y6PgFJBcOH%2F9a0bUJZgcdkGQSq8Hw%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150352231.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=wMtPZnuQjc7YEQExdp0EmX3bbokD97WIQLYXMgQGs1o%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150372010.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=9O0Wc9ixmpHVas0D4JWh5PEAr2Xe0Csirr75jMHyULA%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150263468.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=48KJ%2FzM1NGjO4fE05b96soaL4X67iIcm2Izcpvl5mZY%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150370713.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=nxxukhq%2B8BgAlPEsrenCIAJTdS8NfgZlTDBZ4qPRRkk%3D" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150976942.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=dEdd6ZmnMZzC%2Bd9zVclvPNHWoqaHdIYsxbZHBo7nZfM%3D" position="8" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426151104218.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=4KTDDNiVpC5EgcwCm6LyHPkvP4yLg7jJzoSeVVGEDgY%3D" position="9" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426151014424.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=WqpF5glsHIv%2Bw6J%2FYbZS7SKYTxbVcAkfoMR4CfooJqc%3D" position="10" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150917144.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=NYdxg8Mm6PY3T1nvOdLJmo9SCbzH%2FeXsIzv5NEAcxHk%3D" position="11" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426151122393.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=kW%2FvMrAzKTcSFRnkIkNhjxlcijs9xwkOKHmO3naBvvQ%3D" position="12" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="36382" url="https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-405-Brooklyn-NY-11215-36382">
+  <location>
+    <address>584 4th Avenue</address>
+    <apartment>405</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+    <neighborhood>Gowanus</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3780</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jul-01-2025</availableOn>
+    <description>Modern 1 Bed / 1 Bath at 584 4th Ave-  Gowanus
+
+Welcome to 584 4th Ave, a brand-new luxury development in the heart of Gowanus. This spacious 1-bedroom features floor-to-ceiling windows with sweeping views of Manhattan, the Statue of Liberty, and city bridges.
+
+Enjoy premium amenities including:
+
+Elevator
+
+Rooftop with panoramic views
+
+Fitness center
+
+In-unit washer/dryer
+
+Located near Park Slope with easy access to the F, G, D, N, and R trains, this building offers the perfect mix of style, comfort, and convenience.
+
+Pets allowed upon approval.
+
+Schedule a tour today!</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Dishwasher</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177952358.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=u3ygjVaHMHsX1BZ3fI2%2Bpuk3W7Wx1PBsk6j4YSX9VCI%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177956591.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=PGgDuklbCfZIhq%2BGQxf0rtKnLgU0qKxjaL1pIA%2Bva7o%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177976397.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=bUIPHWDynYe17mtCknd5C39oBXZ0yhwubxgA8HFOu4Q%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177927098.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=sP7ZrEI9jNM1LIVL4kckza6sxE2x%2Frc5tLpEI9ttQn0%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177935269.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=Jm%2FZpm3GNcPBLeUynYJnQ5X7u0smOTbE4t0a3P6r7kw%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177905158.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=V61IVXnXoKqyOuwacmTIUtHx2t15Aez9dX6RMtBRFRY%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217178493390.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=Dmlo9shW57BiWLwg01OijD%2BvB%2BdbKDvKnMDmZErdGLU%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217178458103.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=5XIAeGL1plKF537uQnqao6Gl2jRrhmzKvtP%2Fsu6xj%2B8%3D" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217240779302.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=KRckq7pEwZmW%2Fn53dy7fZ0hk0Fy5I1MzCN7KnQxz6LU%3D" position="8" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177887257.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=88%2F3hNS8rdJjv8YPZhL3WrbhoX2i5cPucAd2TKA2cAs%3D" position="9" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177974962.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=R%2ByhMt8vLoLdpyqEr9vIpaiceP%2Fq6salNBuAGlx1HQU%3D" position="10" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241580927.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=i8WFK0zpRbgOlcp9O4b%2FJ3uq8XKYIQE7MRsykDPzej4%3D" position="11" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241778290.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=gmm0ajaH%2BqLp3OSrse7QIJm3wkwkgsh%2BJ6m3CKUh1V4%3D" position="12" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241760563.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=yr87Q9Z5DcneYpR%2Bjfpc71z6zve9FdHGtJsccOqjKB8%3D" position="13" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241758753.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=WB%2BU5tGNytnYy0dRCjUfYj2mVni6fGOe4OU4kRAWCKQ%3D" position="14" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241767428.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=nt5cXHbJZvPaMryE8RjewwVD4I1P7afsfvg2C9bczYY%3D" position="15" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241727844.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=BvtDHD9%2FmMrUQfgFtL84%2BSgv%2BT86w0Y0Sc60Jpkg6F4%3D" position="16" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241757634.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=cd%2FOS13hjHEdyuQXQ8lIzBxsJ2JLvUoDYhvO6PPAH9g%3D" position="17" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241638270.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=WOXhIZdbpO8tVtAcGeFrLBQGhANLw6%2B3zTnDSVPiTPo%3D" position="18" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217242216242.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=R3%2FuBp3EesYYD16n32pffcY6bW5xOO8HDwHp5mWJ1tw%3D" position="19" description="" />
   </media>
 </property>
 <property type="rental" status="active" id="36272" url="https://myspacenyc.cazamio.com/apartments/649-Hart-Street-Unit-5D-Brooklyn-NY-11221-36272">
@@ -1392,10 +1647,10 @@ No broker fee.</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604002173375.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="36382" url="https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-405-Brooklyn-NY-11215-36382">
+<property type="rental" status="active" id="36106" url="https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-505-Brooklyn-NY-11215-36106">
   <location>
     <address>584 4th Avenue</address>
-    <apartment>405</apartment>
+    <apartment>505</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
     <zipcode>11215</zipcode>
@@ -1405,17 +1660,17 @@ No broker fee.</description>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>3780</price>
+    <price>4500</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
+    <bedrooms>2</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
-    <availableOn>Jul-01-2025</availableOn>
-    <description>Modern 1 Bed / 1 Bath at 584 4th Ave-  Gowanus
+    <availableOn>Sep-01-2025</availableOn>
+    <description>Modern 2br/1bth at 584 4th Ave- Gowanus
 
-Welcome to 584 4th Ave, a brand-new luxury development in the heart of Gowanus. This spacious 1-bedroom features floor-to-ceiling windows with sweeping views of Manhattan, the Statue of Liberty, and city bridges.
+Welcome to 584 4th Ave, a brand-new luxury development in the heart of Gowanus. This spacious 2 bed features floor-to-ceiling windows with sweeping views of Manhattan, the Statue of Liberty, and city bridges.
 
 Enjoy premium amenities including:
 
@@ -1436,7 +1691,7 @@ Schedule a tour today!</description>
     <owner_company_name>wmm</owner_company_name>
     <amenities>
       <pets>All pets allowed</pets>
-      <other>Dishwasher</other>
+      <other>Dishwasher, Private Outdoor Space</other>
     </amenities>
   </details>
 <agents>
@@ -1454,87 +1709,23 @@ Schedule a tour today!</description>
         </agent>
       </agents>
   <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177952358.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=u3ygjVaHMHsX1BZ3fI2%2Bpuk3W7Wx1PBsk6j4YSX9VCI%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177956591.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=PGgDuklbCfZIhq%2BGQxf0rtKnLgU0qKxjaL1pIA%2Bva7o%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177976397.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=bUIPHWDynYe17mtCknd5C39oBXZ0yhwubxgA8HFOu4Q%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177927098.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=sP7ZrEI9jNM1LIVL4kckza6sxE2x%2Frc5tLpEI9ttQn0%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177935269.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=Jm%2FZpm3GNcPBLeUynYJnQ5X7u0smOTbE4t0a3P6r7kw%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177905158.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=V61IVXnXoKqyOuwacmTIUtHx2t15Aez9dX6RMtBRFRY%3D" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217178493390.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=Dmlo9shW57BiWLwg01OijD%2BvB%2BdbKDvKnMDmZErdGLU%3D" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217178458103.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=5XIAeGL1plKF537uQnqao6Gl2jRrhmzKvtP%2Fsu6xj%2B8%3D" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217240779302.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=KRckq7pEwZmW%2Fn53dy7fZ0hk0Fy5I1MzCN7KnQxz6LU%3D" position="8" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177887257.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=88%2F3hNS8rdJjv8YPZhL3WrbhoX2i5cPucAd2TKA2cAs%3D" position="9" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177974962.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=R%2ByhMt8vLoLdpyqEr9vIpaiceP%2Fq6salNBuAGlx1HQU%3D" position="10" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241580927.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=i8WFK0zpRbgOlcp9O4b%2FJ3uq8XKYIQE7MRsykDPzej4%3D" position="11" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241778290.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=gmm0ajaH%2BqLp3OSrse7QIJm3wkwkgsh%2BJ6m3CKUh1V4%3D" position="12" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241760563.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=yr87Q9Z5DcneYpR%2Bjfpc71z6zve9FdHGtJsccOqjKB8%3D" position="13" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241758753.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=WB%2BU5tGNytnYy0dRCjUfYj2mVni6fGOe4OU4kRAWCKQ%3D" position="14" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241767428.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=nt5cXHbJZvPaMryE8RjewwVD4I1P7afsfvg2C9bczYY%3D" position="15" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241727844.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=BvtDHD9%2FmMrUQfgFtL84%2BSgv%2BT86w0Y0Sc60Jpkg6F4%3D" position="16" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241757634.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=cd%2FOS13hjHEdyuQXQ8lIzBxsJ2JLvUoDYhvO6PPAH9g%3D" position="17" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241638270.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=WOXhIZdbpO8tVtAcGeFrLBQGhANLw6%2B3zTnDSVPiTPo%3D" position="18" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217242216242.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=R3%2FuBp3EesYYD16n32pffcY6bW5xOO8HDwHp5mWJ1tw%3D" position="19" description="" />
-  </media>
-</property>
-<property type="rental" status="active" id="36385" url="https://myspacenyc.cazamio.com/apartments/283-Powers-St-Unit-3G-Brooklyn-NY-11211-36385">
-  <location>
-    <address>283 Powers St</address>
-    <apartment>3G</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11211</zipcode>
-    <neighborhood>East Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4500</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Oct-01-2025</availableOn>
-    <description>Virtual tours available!
-Beautiful 2 bed / 1 bath apartment in East Williamsburg, prime location! This apartment features spacious living room, queen-sized bedroom, stainless steel kitchen, modern bathroom, hardwood floors, and windows that let in natural light throughout. 
-You'll be right around the corner from dozens of top-rated bars, restaurants, cafes, grocers, and music/art venues. Local favorites include Roberta's, Sweet Science, Honey's, Wayward Social, Syndicated, Guadalupe, Reclamation, Ichiran, Momo Sushi Shack, El Cortez. 
-Short commute to Manhattan; easy access to the rest of Brooklyn's hottest neighborhoods. Only blocks from the G train, and a short walk to the L train.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016868788035.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=kAhyWjpPJ96Yy7X5knPcLEGrmE6dhsSWL19Pd4VwXgk%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016866699207.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=kEM6QDayYAtuSzX%2BSbNQ5C3sGy8h9t6ECEOPHbNkShM%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016866356895.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=FskxHKEjloRkxqj5m3XQAp39QWpG4TznQ0cAT73pvNs%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016866933388.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=UzaNCuuLgRWRjN9TVhr4YAD1R4mniXYWG%2FvaEwNYw0w%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016866745108.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=AXN5sJ5fRo%2FJGEDnhPKz4JIN0ePLUjOCZAxcQJvTIgA%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016866786920.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=hVWY35tBBDGJRFTMSeDhT1fgt8j9AOtX5msTBpgAOvE%3D" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016868353465.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=THSysKWLKlkiqdBCTaFpiMuF7r7Fihk5cI3qdcxm%2BKA%3D" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016868510327.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=j1pdBwCB%2Fxc%2FzwOCqW7dpORIoCNss2tBfDIJDegHyLQ%3D" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016868379626.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=Fqbg6Ye0XN4YSuY2bdgWzbd8xJY2miO71wpIpY38VK0%3D" position="8" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016867218043.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=Gn8Oh85MKkrwWK37Hwj5oxqtmqTiioq%2Fl46pThCWgwM%3D" position="9" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016866380853.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=lxxbjKLrD7uDS%2BMPA2Uj%2Bz3dUoe2%2F7FqGQWgdJpcj9U%3D" position="10" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016867655512.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=rsQ7OKqyDNbZTetHxxiGUZ2lKFcqxqFy5%2BMupo3%2B3eg%3D" position="11" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638914016867577358.jpeg?sv=2025-05-05&amp;se=2027-08-21T19%3A34%3A46Z&amp;sr=b&amp;sp=r&amp;sig=0vxzqCGgAAxCA77VBwiRSkRw75olSHbby9bGaI5%2FkjY%3D" position="12" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420162127.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=R4C6zFEXSCSwmAMGDi6H11yYOwiyulkGSXLXW13Oa3I%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420126647.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=51vFgzrqln%2FkxdlRMxyOrJWsduJ9oAzgEZbu%2FwwBGWQ%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420096680.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=YNUg3397ryKQ%2BlLC4GrE5gyWnYnVOeUrI1qdBwimYrs%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420159492.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=q%2Bidm6MeA1aQffBwNrq5K%2FGhW4YbYAuIQ7PfxNjEhtw%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420160974.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=OW%2FwWkllQrPscY7jTo2B1%2BXzBxhUOncZDk2qGIJgkjk%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420176870.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=9MXiRXTaDm2RyaPNmhHje5CkkQ8I60ZIO%2FCv%2BlQYHjs%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420200867.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=eOWkrXGt1iU%2FtwfO4F6PRbnl%2FCBj5iGFbJscOyaQ99o%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420873583.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=MsQsaeAU48%2FwiLn1CKJT6UpDoE%2BzJjJziAGdtj2ET4w%3D" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420934316.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=UDam5BZEBKkhs%2F2fj4d3RAaeVNLSjguQonfM5cJeF%2BY%3D" position="8" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420962000.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=e18krgLamGLuJ%2BDKXtF2cGgLsegDZEy2WyxslC%2FOQGo%3D" position="9" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420904900.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=3IWtiA3UYlv%2FYepWONBW1yVW6k8ABdCaUamkj4pdlEw%3D" position="10" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426420927144.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=Ig75t%2FWoqPj5dxMyVWvrcIOIenhL2YWnDDz6IC8CxuY%3D" position="11" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421025920.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=qeTk4QbJIrsyRc1LecsYQS60j1RFxNQJKOzrVrYUXJU%3D" position="12" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421081947.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=iiLS5q0O4GojIYQwIPe5w%2B1GLE5evZFD%2BUxDs2%2FTKo8%3D" position="13" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421284399.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=vQj1J1DHR3CHMokbkv%2BBEf%2FRk9Mk2dyzQ0syUNLYEJI%3D" position="14" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421617518.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=1d%2Fu%2BboMCUU82S79ddg9b9KKV21ZlLyRxvu5o8vkhbA%3D" position="15" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426421555901.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A57%3A22Z&amp;sr=b&amp;sp=r&amp;sig=XaI%2FzRWAr6dQ1%2FgeUOMAq6sxMnBZNNhKNxAmeq3ZeVk%3D" position="16" description="" />
   </media>
 </property>
 <property type="rental" status="active" id="36785" url="https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-203-Brooklyn-NY-11215-36785">
@@ -1697,6 +1888,125 @@ Schedule a tour today!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638591791784841061.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="14" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="36978" url="https://myspacenyc.cazamio.com/apartments/137-Manhattan-Ave-Unit-4B-Brooklyn-NY-11206-36978">
+  <location>
+    <address>137 Manhattan Ave</address>
+    <apartment>4B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3880</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Nov-01-2025</availableOn>
+    <description>BEAUTIFUL 2 BEDROOM
+
+Great location, near the J.M.Z Lorimar or L. Montrose
+
+Laundry room
+Dishwasher
+Queen size Bedroom
+Central A/C
+Exposed brick
+S/S appliances, Wood flooring
+Windows/Closets
+
+TEXT or EMAIL for a viewing today - NO FEE!!</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341911801.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=EtCtOLznjAvPOK7M%2Bu5oUo0%2BGUOchycst%2FfpKqhDcMI%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341926308.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=Ea3Wily7cRM5u6UlYKiwBaZof1srSBPdafJ3k%2BZYR9w%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908409656363.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A40Z&amp;sr=b&amp;sp=r&amp;sig=BL3VEj5RP7ck%2Bl%2BwPvQbkOaKi6deCti2WCf7GOo5llI%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341904978.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=ZIOoovY4di2Lxz2MPL1Gr4wHkG3Jv2VHVNCZK8tMQGs%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341927913.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=48ixmx37jsiIVEOqNaYqX645mQMGNh6llig2pSpEqts%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341938265.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=aaBuseXwEH0kv2JyNkvYU5xitjm0LIXAdafkI%2ByZJ9Q%3D" position="5" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="36983" url="https://myspacenyc.cazamio.com/apartments/283-Powers-St-Unit-3F-Brooklyn-NY-11211-36983">
+  <location>
+    <address>283 Powers St</address>
+    <apartment>3F</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11211</zipcode>
+    <neighborhood>East Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Deposit Received</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3600</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Nov-01-2025</availableOn>
+    <description>Virtual tours available!
+Beautiful 1 bed / 1 bath apartment in East Williamsburg, prime location! This apartment features spacious living room, queen-sized bedroom, stainless steel kitchen, modern bathroom, hardwood floors, and windows that let in natural light throughout. 
+You'll be right around the corner from dozens of top-rated bars, restaurants, cafes, grocers, and music/art venues. Local favorites include Roberta's, Sweet Science, Honey's, Wayward Social, Syndicated, Guadalupe, Reclamation, Ichiran, Momo Sushi Shack, El Cortez. 
+Short commute to Manhattan; easy access to the rest of Brooklyn's hottest neighborhoods. Only blocks from the G train, and a short walk to the L train.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400217279977.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=n3aYmJx3TxVVuZVanLLAgM%2Ft3Zpfy7G96GCL4hnva2c%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400217482853.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=RjlSMWkWYTJQz1yrbr6QdyvOJ9gAvHFUvuOqaWNhPvk%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400217327904.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=z0kBxmX5lCPVN9Xm8D11hiLara%2Fx1nCBFFyHh7zpmC0%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400217121436.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Rt6LigZsYkrTGo0pbnnTdiQ7s2tqmJLCkUV4CtPNcnM%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400216949426.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Szf1xA5%2FO5gEwBAoWx2%2B4ndR6WLtOApUGkWJvpFrVno%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400216901795.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=ILCY8ZBgcYIpdNP4Hsb02qnjen2U0B6aljGRHiYwayg%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400216852207.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=b%2B2kYV2srG7Xwfezo1AjeMW2L1IHpRVtUDOdg4i12nQ%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400216832561.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=xayr6YSgtl7VkGhTMgZX%2FIkfnyjLUlI9F4Yu4n6luuE%3D" position="7" description="" />
+  </media>
+</property>
 <property type="rental" status="active" id="36942" url="https://myspacenyc.cazamio.com/apartments/142-Wilson-Ave-Unit-3R-Brooklyn-NY-11221-36942">
   <location>
     <address>142 Wilson Ave</address>
@@ -1827,377 +2137,6 @@ No broker fee.</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638911358395758894.jpeg?sv=2025-05-05&amp;se=2027-08-18T17%3A43%3A59Z&amp;sr=b&amp;sp=r&amp;sig=MCNSl6bUsPJC5Px2AUfpiJEzhrTCzXTuFJDpKurTXSI%3D" position="17" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="36978" url="https://myspacenyc.cazamio.com/apartments/137-Manhattan-Ave-Unit-4B-Brooklyn-NY-11206-36978">
-  <location>
-    <address>137 Manhattan Ave</address>
-    <apartment>4B</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-    <neighborhood>Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3880</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Nov-01-2025</availableOn>
-    <description>BEAUTIFUL 2 BEDROOM
-
-Great location, near the J.M.Z Lorimar or L. Montrose
-
-Laundry room
-Dishwasher
-Queen size Bedroom
-Central A/C
-Exposed brick
-S/S appliances, Wood flooring
-Windows/Closets
-
-TEXT or EMAIL for a viewing today - NO FEE!!</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341911801.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=EtCtOLznjAvPOK7M%2Bu5oUo0%2BGUOchycst%2FfpKqhDcMI%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341926308.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=Ea3Wily7cRM5u6UlYKiwBaZof1srSBPdafJ3k%2BZYR9w%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908409656363.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A40Z&amp;sr=b&amp;sp=r&amp;sig=BL3VEj5RP7ck%2Bl%2BwPvQbkOaKi6deCti2WCf7GOo5llI%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341904978.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=ZIOoovY4di2Lxz2MPL1Gr4wHkG3Jv2VHVNCZK8tMQGs%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341927913.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=48ixmx37jsiIVEOqNaYqX645mQMGNh6llig2pSpEqts%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341938265.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=aaBuseXwEH0kv2JyNkvYU5xitjm0LIXAdafkI%2ByZJ9Q%3D" position="5" description="" />
-  </media>
-</property>
-<property type="rental" status="active" id="36983" url="https://myspacenyc.cazamio.com/apartments/283-Powers-St-Unit-3F-Brooklyn-NY-11211-36983">
-  <location>
-    <address>283 Powers St</address>
-    <apartment>3F</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11211</zipcode>
-    <neighborhood>East Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3600</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Nov-01-2025</availableOn>
-    <description>Virtual tours available!
-Beautiful 1 bed / 1 bath apartment in East Williamsburg, prime location! This apartment features spacious living room, queen-sized bedroom, stainless steel kitchen, modern bathroom, hardwood floors, and windows that let in natural light throughout. 
-You'll be right around the corner from dozens of top-rated bars, restaurants, cafes, grocers, and music/art venues. Local favorites include Roberta's, Sweet Science, Honey's, Wayward Social, Syndicated, Guadalupe, Reclamation, Ichiran, Momo Sushi Shack, El Cortez. 
-Short commute to Manhattan; easy access to the rest of Brooklyn's hottest neighborhoods. Only blocks from the G train, and a short walk to the L train.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400217279977.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=n3aYmJx3TxVVuZVanLLAgM%2Ft3Zpfy7G96GCL4hnva2c%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400217482853.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=RjlSMWkWYTJQz1yrbr6QdyvOJ9gAvHFUvuOqaWNhPvk%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400217327904.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=z0kBxmX5lCPVN9Xm8D11hiLara%2Fx1nCBFFyHh7zpmC0%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400217121436.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Rt6LigZsYkrTGo0pbnnTdiQ7s2tqmJLCkUV4CtPNcnM%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400216949426.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Szf1xA5%2FO5gEwBAoWx2%2B4ndR6WLtOApUGkWJvpFrVno%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400216901795.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=ILCY8ZBgcYIpdNP4Hsb02qnjen2U0B6aljGRHiYwayg%3D" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400216852207.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=b%2B2kYV2srG7Xwfezo1AjeMW2L1IHpRVtUDOdg4i12nQ%3D" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663400216832561.png?sv=2024-11-04&amp;se=2026-11-04T18%3A00%3A21Z&amp;sr=b&amp;sp=r&amp;sig=xayr6YSgtl7VkGhTMgZX%2FIkfnyjLUlI9F4Yu4n6luuE%3D" position="7" description="" />
-  </media>
-</property>
-<property type="rental" status="active" id="35017" url="https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-204-Brooklyn-NY-11215-35017">
-  <location>
-    <address>584 4th Avenue</address>
-    <apartment>204</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11215</zipcode>
-    <neighborhood>Gowanus</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3500</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jul-01-2025</availableOn>
-    <description>Modern 1 Bed / 1 Bath at 584 4th Ave-  Gowanus
-
-Welcome to 584 4th Ave, a brand-new luxury development in the heart of Gowanus. This spacious 1-bedroom features floor-to-ceiling windows with sweeping views of Manhattan, the Statue of Liberty, and city bridges.
-
-Enjoy premium amenities including:
-
-Elevator
-
-Rooftop with panoramic views
-
-Fitness center
-
-In-unit washer/dryer
-
-Located near Park Slope with easy access to the F, G, D, N, and R trains, this building offers the perfect mix of style, comfort, and convenience.
-
-Pets allowed upon approval.
-
-Schedule a tour today!</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets>All pets allowed</pets>
-      <other>Dishwasher</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730678297.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=Kr6EWJQu9uQ59awCQrpPPZr3xtAD7ZwEkXGF6vjbbRk%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730693674.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=283wrhGn6Z%2F128rFh7RaAx4pRj9ecO9w8YPYGwr%2F1E0%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730499199.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=AxnjfmE%2FxTOGMvG8WhMpxAVrX%2BlpWw9RNLqoivxaMAg%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730677974.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=RM91lPmDdAzjb3tFaQf4q8YaNhLaPmMf2BdqBNoigAo%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730537006.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=TJOxoZH7V09zolWOls%2BnKGIK4zlNglgjNkYM5aWofLM%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217731217925.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=T%2BszpixsFga7hn5DBAGxrzsj%2Fpiy0iY5dOw4F1BFI5A%3D" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217731075615.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=LUawsDUlX%2Bmquf1jeV77oIpdvbIoYEqSGaOHW9VlqNA%3D" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217731182668.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=zVa5oLNO5Nh6ksYb7yG3FY3ZdQiUGvHmJ7SAUnnv%2FL4%3D" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217731156023.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=%2BLzv%2FnESwCJb%2FF%2BJBQSLlq%2FtaBq5mCZWbw8FhcerRGw%3D" position="8" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730552296.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=ZYGqZbEelh6xsasXbt6301p5R50mowFVRE3R6AEYSkk%3D" position="9" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217730676556.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A56%3A13Z&amp;sr=b&amp;sp=r&amp;sig=va48AjRCsUScl88cyqfxdd4Peydvy1%2BOs%2BfpGhoBBWk%3D" position="10" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541728191.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=ity%2BRRIfpGq9%2Fceb7axt5%2Bl5mzgriGeO9%2BK50Dw6xms%3D" position="11" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541745748.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=TAoa9h1chv5cgmzsh223SC40B7K%2FDINYG0n8oID2OAo%3D" position="12" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541881281.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=tw5QMhb4IxH%2BL8y3YdO9QYCy48VPtnyqcbVvknWZDyY%3D" position="13" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541865131.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=KDoqt12tMpWOkYBQa2IWPyn4rSFuUh6vOFfx9imrHxU%3D" position="14" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541854020.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=h6VTg49tmbMM%2BXGNz2tq6eejvvXQG9kq3opEToPbaoI%3D" position="15" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541905285.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=ioCK3G3VXWtmnDOnt9cnFgWNEn0FBZEfuwz%2FZGmt%2BMY%3D" position="16" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541838801.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=9FaTQor1c6TBw80%2Bh2EpGoTKvS4RFz70ZqHUSJwQwkM%3D" position="17" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218541849944.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=qAtJw8zSzpxKiVjBLhly%2BBYGugrEpMq9VKWAy63mOZA%3D" position="18" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218542639356.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=IDdtBvlqXAxaFXNtDQnee4BccBoL%2B95A1Z%2FHCzf%2B8SQ%3D" position="19" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933218542547990.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A57%3A34Z&amp;sr=b&amp;sp=r&amp;sig=lnCvCMx8GMIpa%2FJqwmBN0ELR4XRQBbYLTnkOeFuoVnA%3D" position="20" description="" />
-  </media>
-</property>
-<property type="rental" status="active" id="20975" url="https://myspacenyc.cazamio.com/apartments/1068-Fulton-St-Unit-7D-Brooklyn-NY-11238-20975">
-  <location>
-    <address>1068 Fulton St</address>
-    <apartment>7D</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11238</zipcode>
-    <neighborhood>Clinton Hill</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3300</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Nov-01-2025</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets />
-      <other>A/C, Dishwasher, Hardwood Floors, Intercom system, Central A/C, Roof Access</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716438955839.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716482525247.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716524934649.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716565757330.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716607961220.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716648690315.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716686719496.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716727132105.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716771641421.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716810453285.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716849186332.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638458716888875282.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
-  </media>
-</property>
-<property type="rental" status="active" id="31743" url="https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-502-Brooklyn-NY-11215-31743">
-  <location>
-    <address>584 4th Avenue</address>
-    <apartment>502</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11215</zipcode>
-    <neighborhood>Gowanus</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3400</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Sep-01-2025</availableOn>
-    <description>1 month free</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets>All pets allowed</pets>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150352302.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=yTjI4Fv2R%2BNGNTI79ONQ%2Fhlifja2sp9w2%2Fow5KOr%2FmU%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150250330.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=9QvkV8qehh4TM3r7teUQnTZiKedYuTYAvJldO5gce0E%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150307197.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=KUD3rF3BezSmOlAqKCA1q4Wifkh7qJWrmtwB6IZOJuE%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150285330.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=n%2Fgg12VDElXEa4y6PgFJBcOH%2F9a0bUJZgcdkGQSq8Hw%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150352231.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=wMtPZnuQjc7YEQExdp0EmX3bbokD97WIQLYXMgQGs1o%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150372010.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=9O0Wc9ixmpHVas0D4JWh5PEAr2Xe0Csirr75jMHyULA%3D" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150263468.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=48KJ%2FzM1NGjO4fE05b96soaL4X67iIcm2Izcpvl5mZY%3D" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150370713.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=nxxukhq%2B8BgAlPEsrenCIAJTdS8NfgZlTDBZ4qPRRkk%3D" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150976942.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=dEdd6ZmnMZzC%2Bd9zVclvPNHWoqaHdIYsxbZHBo7nZfM%3D" position="8" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426151104218.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=4KTDDNiVpC5EgcwCm6LyHPkvP4yLg7jJzoSeVVGEDgY%3D" position="9" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426151014424.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=WqpF5glsHIv%2Bw6J%2FYbZS7SKYTxbVcAkfoMR4CfooJqc%3D" position="10" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426150917144.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=NYdxg8Mm6PY3T1nvOdLJmo9SCbzH%2FeXsIzv5NEAcxHk%3D" position="11" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638932426151122393.jpeg?sv=2025-05-05&amp;se=2027-09-12T02%3A56%3A55Z&amp;sr=b&amp;sp=r&amp;sig=kW%2FvMrAzKTcSFRnkIkNhjxlcijs9xwkOKHmO3naBvvQ%3D" position="12" description="" />
-  </media>
-</property>
-<property type="rental" status="active" id="33963" url="https://myspacenyc.cazamio.com/apartments/117-S-4th-St-Unit-27-Brooklyn-NY-11249-33963">
-  <location>
-    <address>117 S 4th St</address>
-    <apartment>27</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11249</zipcode>
-    <neighborhood>Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4000</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jul-01-2025</availableOn>
-    <description>Located on a quiet block in prime Williamsburg, this true two-bedroom offers great space and even better location. Both bedrooms have windows, closets, and comfortably fit queen beds. The layout features a separate living room and a renovated kitchen. Just a quick walk to the Bedford L and Marcy JMZ trains, and when you're ready to unwind, head upstairs to the rooftop for wide-open Manhattan views and epic sunsets over the water.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001866175.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001697834.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001665070.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001958877.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604001922824.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638581604002173375.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-  </media>
-</property>
 <property type="rental" status="active" id="33613" url="https://myspacenyc.cazamio.com/apartments/953-Dean-Street-Unit-313-Brooklyn-NY-11238-33613">
   <location>
     <address>953 Dean Street</address>
@@ -2242,84 +2181,6 @@ Schedule a tour today!</description>
         </agent>
       </agents>
   <media />
-</property>
-<property type="rental" status="active" id="19021" url="https://myspacenyc.cazamio.com/apartments/130-Hope-Street-Unit-403-Brooklyn-NY-11211-19021">
-  <location>
-    <address>130 Hope Street</address>
-    <apartment>403</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11211</zipcode>
-    <neighborhood>Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>7403</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jul-25-2024</availableOn>
-    <description>Welcome to Casa Hope
-Williamsburg?s new luxury development!
-
-Sunny units with oversized windows throughout, and gorgeous finishes
-Steps from the L / G trains, commute to Union Square in only 13 minutes door to door!
-
-Tons of building amenities:
-
-Fitness center
-Rooftop terrace
-Business center
-On-site garage parking
-Lounge on 7th floor
-Mini lounge nook to each floor
-Elevator
-Bike room
-Parking garage (additional fee)
-
-The kitchen comes equipped with brand new stainless steel appliances including a dishwasher.
-Gorgeous well-designed light wood cabinetry, white stone countertops and backsplashes.
-Modern bathrooms feature a deep soaking spa bathtub, as well as modern vanity with oversized mirror, storage cabinet space and matte black finishes.
-Other features include oak flooring throughout and generous closet space. Trash Chute to each floor.
-
-Perfect location with an easy commute to the city and tons of restaurants, bars and cafes nearby
-Short walk from McCarren Park and the Bedford L train area</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>BCclipper</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Dishwasher, Refrigerator/oven, Central A/C, Stainless steel appliances, Washer/Dryer In Unit</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638575271569034674.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638575271569013635.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638575271569050502.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638575271569016099.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638575271569064506.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638575271573719291.png?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638575271573929930.png?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638575271573423591.png?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-  </media>
 </property>
 <property type="rental" status="active" id="16175" url="https://myspacenyc.cazamio.com/apartments/77-Commercial-Street-Unit-102S-Brooklyn-NY-11222-16175">
   <location>
@@ -2483,6 +2344,174 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689634759793.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689640436023.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689647277878.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689653461989.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689659367546.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689666819408.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689676248037.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="16177" url="https://myspacenyc.cazamio.com/apartments/77-Commercial-Street-Unit-202-Brooklyn-NY-11222-16177">
+  <location>
+    <address>77 Commercial Street</address>
+    <apartment>202</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11222</zipcode>
+    <neighborhood>Greenpoint</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>7400</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Apr-15-2024</availableOn>
+    <description>77 Commercial is a new landmark on the north edge of the Greenpoint, Brooklyn waterfront, situated between two great outdoor spaces ? a beautiful, lushly landscaped inner court to the east, and the long anticipated Box Street Park to the west.
+
+Discover a range of living spaces tailored to your needs, including studios, 1-bedroom, 2-bedroom, and 3-bedroom layouts.
+
+Apartment Features:
+-Expansive living areas boasting breathtaking views
+-Fully equipped kitchens with stainless steel appliances
+-Dishwasher
+-In-unit washer/dryer for added convenience
+-Individual AC/Heat units
+-Big windows inviting abundant natural light
+-Soaring high ceilings and elegant hardwood floors
+
+Building Amenities:
+-State-of-the-art fitness center
+-Relaxing sauna
+-Basketball and tennis courts
+-Inviting indoor pool with direct access to outdoor pool deck
+-Multiple BBQ grilling areas
+-Rooftop retreat offering panoramic views
+-Residents lounge and versatile working space
+-Entertainment-filled recreation room
+-Secure bicycle storage
+-Convenient elevators
+-Parking garage available (additional fee applies)
+
+Location:
+Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift commutes to Manhattan.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>BCclipper</owner_company_name>
+    <amenities>
+      <pets>Pet Fee</pets>
+      <other>Dishwasher, Hardwood Floors, Stainless steel appliances, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689619680001.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689611686174.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689605315683.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689627473226.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689634759793.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689640436023.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689647277878.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689653461989.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689659367546.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689666819408.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689676248037.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="16178" url="https://myspacenyc.cazamio.com/apartments/77-Commercial-Street-Unit-209-Brooklyn-NY-11222-16178">
+  <location>
+    <address>77 Commercial Street</address>
+    <apartment>209</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11222</zipcode>
+    <neighborhood>Greenpoint</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>6858</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Apr-14-2024</availableOn>
+    <description>77 Commercial is a new landmark on the north edge of the Greenpoint, Brooklyn waterfront, situated between two great outdoor spaces ? a beautiful, lushly landscaped inner court to the east, and the long anticipated Box Street Park to the west.
+
+Discover a range of living spaces tailored to your needs, including studios, 1-bedroom, 2-bedroom, and 3-bedroom layouts.
+
+Apartment Features:
+-Expansive living areas boasting breathtaking views
+-Fully equipped kitchens with stainless steel appliances
+-Dishwasher
+-In-unit washer/dryer for added convenience
+-Individual AC/Heat units
+-Big windows inviting abundant natural light
+-Soaring high ceilings and elegant hardwood floors
+
+Building Amenities:
+-State-of-the-art fitness center
+-Relaxing sauna
+-Basketball and tennis courts
+-Inviting indoor pool with direct access to outdoor pool deck
+-Multiple BBQ grilling areas
+-Rooftop retreat offering panoramic views
+-Residents lounge and versatile working space
+-Entertainment-filled recreation room
+-Secure bicycle storage
+-Convenient elevators
+-Parking garage available (additional fee applies)
+
+Location:
+Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift commutes to Manhattan.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>BCclipper</owner_company_name>
+    <amenities>
+      <pets>Pet Fee</pets>
+      <other>Dishwasher, Hardwood Floors, Stainless steel appliances, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689647277878.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689619680001.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689611686174.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689605315683.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689627473226.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689634759793.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689640436023.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689653461989.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689659367546.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-04/22_638484689666819408.png?sv=2019-07-07&amp;sr=c&amp;sig=mHz15t1%2FfHjENp%2F9QYUcy%2F4BYX2tYbyVikiK8DLmhYE%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
